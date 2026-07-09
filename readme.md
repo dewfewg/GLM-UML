@@ -1,4 +1,4 @@
-# AUG - Automated UML Generation
+# AUG: an Interactive Tool for Clarifying and Generating UML Models Based on Large Language Models
 
 <div align="center">
     <img src="./assets/框架图_页面_3.jpg" alt="AUG Framework">
