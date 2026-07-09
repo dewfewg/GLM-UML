@@ -9,6 +9,9 @@
         <a href="https://youtu.be/kHbCPK6kOag">
             <img alt="Demo Video" src="https://img.shields.io/badge/Demo-Video-red">
         </a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11173440">
+            <img alt="Paper" src="https://img.shields.io/badge/Paper-IEEE%20QRS%202025-green">
+        </a>
     </p>
 </div>
 
@@ -114,3 +117,19 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## 🤝 Contributing
 
 We welcome contributions! Please feel free to submit a Pull Request.
+
+## Citation
+
+If you find this project useful for your research or applications, please consider citing our paper:
+
+```bibtex
+@INPROCEEDINGS{11173440,
+  author={Lu, Jia and Sun, Peiling and Chen, Yi and Yin, Gege and Ye, Peng},
+  booktitle={2025 25th International Conference on Software Quality, Reliability and Security (QRS)},
+  title={AUG: an Interactive Tool for Clarifying and Generating UML Models Based on Large Language Models},
+  year={2025},
+  pages={78-85},
+  keywords={requirements modeling, uml, promote learning, fine-tuning training, quality assessment},
+  doi={10.1109/QRS65678.2025.00019}
+}
+```
